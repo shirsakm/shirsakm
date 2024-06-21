@@ -6,6 +6,8 @@ Hello! I'm a freelance software developer from India, passionately blending my l
 
 Let's create something remarkable together! 
 
+![Github activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shirsakm&theme=material-palenight)
+
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
