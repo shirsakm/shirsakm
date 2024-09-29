@@ -17,6 +17,8 @@ Let's create something remarkable together!
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
+[![An image of @shirsakm's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shirsakm)](https://holopin.io/@shirsakm)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shirsakm&layout=compact&theme=dracula)
 
 <!--
