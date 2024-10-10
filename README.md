@@ -6,7 +6,9 @@ Hello! I'm a freelance software developer from India, passionately blending my l
 
 Let's create something remarkable together! 
 
+<!--
 ![Github activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shirsakm&theme=material-palenight)
+-->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shirsakm&show_icons=true&theme=dracula)
 
