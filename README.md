@@ -6,11 +6,11 @@ Hello! I'm a freelance software developer from India, passionately blending my l
 
 Let's create something remarkable together! 
 
-<!--
 ![Github activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shirsakm&theme=material-palenight)
--->
 
+<!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shirsakm&show_icons=true&theme=dracula)
+-->
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
