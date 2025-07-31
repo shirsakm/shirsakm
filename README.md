@@ -23,7 +23,6 @@ Let's create something remarkable together!
 
 [![An image of @shirsakm's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shirsakm)](https://holopin.io/@shirsakm)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shirsakm&layout=compact&theme=dracula)
 
 <!--
 ![stats](https://github-readme-stats.vercel.app/api?username=shirsakm&show_icons=true&theme=dracula&hide=prs&rank_icons=github)
