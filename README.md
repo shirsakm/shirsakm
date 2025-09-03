@@ -3,29 +3,29 @@
 -->
 
 ## I do dev!
-// TODO: Add introduction
+// TODO: Add introduction 
 
-## Looking for my portfolio? 
+## Looking for my portfolio? 👀
 I don't have one! Check out some of my cool projects instead!
 
-### [Nightlio](https://github.com/shirsakm/nighltio)
+### [🌙 Nightlio](https://github.com/shirsakm/nightlio/)
 My open-source mood logger and journal. I made it because Daylio sucked!
 
-It's self-hostable, it doesn't sell your data, what more can you ask for? Turns out, a lot actually! Which is why I am still working on it. Give it a star though.
+It's self-hostable, it doesn't sell your data, what more can you ask for? Turns out, a lot actually! Which is why I am still working on it. Think it's missing something? Open an issue. Think it's awesome? Drop a star! ⭐
 
-### [Heritage Results Database](https://shirsak.ftp.sh)
+### [🔍 Heritage Results Database](https://shirsak.ftp.sh)
 Ever been annoyed by people who guard their grades like it's their Horcrux? Yeah, me too, so I scraped everyone's grades and made a website! If you study in [Heritage](https://heritageit.edu/), check it out!
 
 Study in Heritage, but not in Heritage Institute of Technology? Shoot me a mail and I will scrape your institute's results as well!
 
-### [PokeBounce](https://github.com/shirsakm/PokeBounce)
-Are you into Pokémon? Are you into auto-battlers? Boy, have I got the game for you! Well, I didn't make this, but I contributed a lot and I want you to check it out!
+### [⚡ PokeBounce](https://github.com/shirsakm/PokeBounce)
+Are you into Pokémon? Are you into auto-battlers? Boy, have I got the game for you! Well, I didn't make this, but I contributed a lot to the source code and I want you to check it out!
 
-I also did data analysis and made graphs of the results. Wanna see my graphs? Check out the [original creator's video](https://www.youtube.com/watch?v=C8eWTT5-3i4)!
+I also did data analysis and made graphs of the results to check which pokemon were truly OP. Wanna see my graphs? Check out the [original creator's video](https://www.youtube.com/watch?v=C8eWTT5-3i4)!
 
 
 ## Look! It's my activity!
-Hmm, looks like I have been pretty active recently, let's hope I don't fall into a slump again!
+Hmm, looks like I have been pretty active recently, let's hope I don't fall into a slump again! 🤞
 
 ![Github activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shirsakm&theme=material-palenight)
 
