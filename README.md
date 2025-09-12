@@ -27,7 +27,7 @@ I also did data analysis and made graphs of the results to check which pokemon w
 ## Look! It's my activity!
 Hmm, looks like I have been pretty active recently, let's hope I don't fall into a slump again! 🤞
 
-![Github activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shirsakm&theme=material-palenight)
+![Github activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shirsakm&theme=github-compact)
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
