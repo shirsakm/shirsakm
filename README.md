@@ -13,7 +13,7 @@ My open-source mood logger and journal. I made it because Daylio sucked!
 
 It's self-hostable, it doesn't sell your data, what more can you ask for? Turns out, a lot actually! Which is why I am still working on it. Think it's missing something? Open an issue. Think it's awesome? Drop a star! ⭐
 
-### [🔍 Heritage Results Database](https://shirsak.ftp.sh)
+### [🔍 Heritage Results Archive](https://shirsak.ftp.sh)
 Ever been annoyed by people who guard their grades like it's their Horcrux? Yeah, me too, so I scraped everyone's grades and made a website! If you study in [Heritage](https://heritageit.edu/), check it out!
 
 Study in Heritage, but not in Heritage Institute of Technology? Shoot me a mail and I will scrape your institute's results as well!
