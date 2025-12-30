@@ -44,6 +44,8 @@ If all else fails, send me a message on LinkedIn, though I wouldn't wish LinkedI
 
 If you wish to find or observe me in my natural habitat, you can find me in the Discord / Matrix / IRC channels of any project I contribute to.
 
+![Contribution stats Graph](profile-3d-contrib/profile-night-rainbow.svg)
+
 <!--
 ## Look! It's my activity!
 Hmm, looks like I have been pretty active recently, let's hope I don't fall into a slump again! 🤞
